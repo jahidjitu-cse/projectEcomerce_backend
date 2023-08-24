@@ -1,0 +1,18 @@
+{
+  "name": "ecomerce_backend",
+  "version": "1.0.0",
+  "description": "it is backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jahid jitu",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
+  }
+}
